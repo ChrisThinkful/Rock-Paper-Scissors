@@ -19,3 +19,8 @@ For each round, you, the user, will be prompted to reply with either Rock, Paper
 Following each round, you will be told if you've won or lost, and be provided with your choice and the computer's.
 
 At the completion of the round, win or loss statement will be printed to the console along with how many wins and ties you managed.
+
+
+### Purpose
+
+The purpose of this project is to further develop my skills as a Web Developer by revisiting the foundations of CSS, HTML, and JavaScript. 
