@@ -4,7 +4,7 @@
 
 ## Current and future iterations
 
-The file index.html currently houses a ***console*** version of Rock Paper Scissors. In future updates, this index.html will be renamed to index-old.html. 
+The file index.html currently houses a **console** version of Rock Paper Scissors. In future updates, this index.html will be renamed to index-old.html. 
 
 The next iteration of this project will be a fair bit more involved and take place **on** the webpage, as well as being much more viewer-friendly. 
 
