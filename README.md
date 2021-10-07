@@ -23,4 +23,4 @@ At the completion of the round, win or loss statement will be printed to the con
 
 ### Purpose
 
-The purpose of this project is to further develop my skills as a Web Developer by revisiting the foundations of CSS, HTML, and JavaScript. 
+The purpose of this project is to further develop my skills as a Web Developer by revisiting the foundations: CSS, HTML, and JavaScript. 
