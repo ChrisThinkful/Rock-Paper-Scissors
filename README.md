@@ -1,26 +1,19 @@
-# Rock Paper Scissors
+# Warrior Wizard Ranger
 
- This is a simple implementation of a grade-school classic.
+This is a reimagining of a favorite childhood hame. Rather than choose between Rock, Paper or Scissors, you instead choose a fantasy combat style! Choose between the mighty warrior, the powerful wizard, or the cunning ranger
 
 ## Current and future iterations
 
-The file index.html currently houses a **console** version of Rock Paper Scissors. In future updates, this index.html will be renamed to index-old.html. 
+In its current stage, you can play endlessly. The user's score and the computer's score, as well as their hero choice, can be seen below the hero choice section. Additionally, a statement can be found beneath hero choice telling the user if he/or won or lost.
 
-The next iteration of this project will be a fair bit more involved and take place **on** the webpage, as well as being much more viewer-friendly. 
+In the next iteration, I will be adding a text field to decide how many rounds to play. Upon completion of the number of rounds entered by the user, an alert of some sort will inform the user that the game has ended and they will be prompted to try again.
 
-### Playing in the console
+### How to play
 
-Inside your browsers Dev Tools, access the console.
-
-Once in the console, type game() and input an integer inside the parentheses. This interger will represent the number of rounds to be played.
-
-For each round, you, the user, will be prompted to reply with either Rock, Paper, or Scissors. At this time, the code is case-sensitive so please capitalize your answer. 
-
-Following each round, you will be told if you've won or lost, and be provided with your choice and the computer's.
-
-At the completion of the round, win or loss statement will be printed to the console along with how many wins and ties you managed.
-
+To play, simply visit this link: 
 
 ### Purpose
 
 The purpose of this project is to further develop my skills as a Web Developer by revisiting the foundations: CSS, HTML, and JavaScript. 
+
+The biggest takeaways so far from this project at its current stage is DOM Manipulation. While my skills with the DOM are still a work in progress, this project is a big step in the right direction. 
