@@ -8,6 +8,64 @@
     <link rel="stylesheet" href="Styles.css">
 </head>
 <body>
-    <script src='RPS.js'></script>
+    <div class="header">
+        <h1>
+            <span id='warrior'>Warrior</span>
+            &nbsp;
+            <span id='wizard'>Wizard</span>
+            &nbsp;
+            <span id='ranger'>Ranger</span>
+        </h1>
+        <p class="heirarchy">
+            <span id="warrior">Warrior</span>
+             beats 
+            <span id="ranger">Ranger</span>
+             | 
+            <span id="wizard">Wizard</span>
+             beats 
+            <span id="warrior">Warrior</span>
+             | 
+            <span id="ranger">Ranger</span>
+             beats 
+            <span id="wizard">Wizard</span>
+        </p>
+    </div>
+    <div class="container">
+        <p class="heroes">Choose Your Hero:</p>
+        <button class='btn' id="Warrior">
+            <img src="/Images/warrior.png" alt="Warrior">
+        </button>
+        <button class='btn' id="Wizard">
+            <img src="/Images/wizard.png" alt="Wizard">
+        </button>
+        <button class='btn' id="Ranger">
+            <img src="/Images/ranger.png" alt="Ranger">
+        </button>
+    </div>
+    <div id="game__statement">
+        Who will be the victor?
+    </div>
+    <div class="round__outcome">
+        <div id="player">
+            <div>
+                <img id='player__choice' src="Images/choice.png" alt="">
+            </div>
+            <div class="player__outcome">
+                <p id="player__hero">Your hero: Select a Hero</p>
+                <p id="player__score">Your score: 0</p>
+            </div>
+        </div>
+        <div id="computer">
+            <div>
+                <img id='computer__choice' src="Images/choice.png" alt="">
+            </div>
+            <div class="computer__outcome">
+                <p id="opponent__hero">Your opponent: Select a Hero</p>
+                <p id="opponent__score">Opponent's Score: 0</p>
+            </div>
+        </div>
+    </div>
+    <button onClick="window.location.href=window.location.href">Try Again?</button>
+    <script src='WWR.js'></script>
 </body>
 </html>

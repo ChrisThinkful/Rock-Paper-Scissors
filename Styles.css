@@ -1,0 +1,70 @@
+body {
+    text-align: center;
+    font-family: 'Papyrus';
+}
+
+* {
+    /* border: red solid 1px; */
+    margin: 10px;
+}
+
+h1 {
+    font-size: 48px;
+}
+
+.container {
+    font-size: 28px;
+}
+
+#warrior{
+    color: rgb(189, 0, 0);
+}
+#wizard {
+    color: rgb(0, 0, 175);
+}
+
+#ranger {
+    color: rgb(1, 102, 1);
+}
+
+.round__outcome {
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+    text-align: left;
+}
+
+#player,
+#computer {
+    display: flex;
+    width: 400px;
+    align-items: center;
+}
+
+img {
+    width: 120px;
+    height: 180px;
+    margin: 0;
+}
+
+button {
+    background-color: white;
+    padding: 0;
+    border: none;
+}
+
+button:hover {
+    transform: scale(1.1);
+    transition-duration: .5s;
+}
+
+.player__choice,
+.computer__choice {
+    width: 100px;
+    height: 150px;
+}
+
+.player__outcome,
+.computer__outcome {
+    width: 300px;
+}
