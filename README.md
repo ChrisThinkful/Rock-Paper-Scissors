@@ -1,6 +1,6 @@
 # Warrior Wizard Ranger
 
-This is a reimagining of a favorite childhood hame. Rather than choose between Rock, Paper or Scissors, you instead choose a fantasy combat style! Choose between the mighty warrior, the powerful wizard, or the cunning ranger
+This is a reimagining of a favorite childhood game. Rather than choose between Rock, Paper or Scissors, you instead choose a fantasy combat style! Choose between the mighty warrior, the powerful wizard, or the cunning ranger
 
 ## Current and future iterations
 
