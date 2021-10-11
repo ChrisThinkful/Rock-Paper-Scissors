@@ -2,6 +2,9 @@
 
 This is a reimagining of a favorite childhood game. Rather than choose between Rock, Paper or Scissors, you instead choose a fantasy combat style! Choose between the mighty warrior, the powerful wizard, or the cunning ranger
 
+### Game Start
+<img width="923" alt="game_start" src="https://user-images.githubusercontent.com/78775458/136811899-0c607f7d-cc10-402b-8dc0-2c519d7b0a4a.png">
+
 ## Current and future iterations
 
 In its current stage, you can play endlessly. The user's score and the computer's score, as well as their hero choice, can be seen below the hero choice section. Additionally, a statement can be found beneath hero choice telling the user if he/or won or lost.
